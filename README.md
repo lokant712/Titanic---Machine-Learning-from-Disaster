@@ -93,7 +93,6 @@ Place `train.csv` and `test.csv` in the same folder as the notebook. The data lo
 | Balasubramanian | 23MID0420 |
 | Hari Prasad | 23MIC0022 |
 
-Course / College: _add your course and college_
 
 ## Acknowledgements
 
